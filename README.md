@@ -1,7 +1,7 @@
 # MystanCodeProject_101
 ### This repository holds my programming projects done during the period of stanCode SC101 course.
 
-Watch my //// *[Demo Videos!](https://youtu.be/cUq05q4SFQo)*
+Watch my *[Demo Videos!](https://www.youtube.com/watch?v=OeGsDJLiZXU)*
 
 ### Project Source Codes:
 1. [my_drawing](https://github.com/iusd333-lala/MystanCodeProject_101/blob/main/stanCode_Projects101/my_drawing/my_drawing.py)
