@@ -1,6 +1,6 @@
 """
 File: webcrawler.py
-Name: 
+Name: Cindy
 --------------------------
 This file collects more data from
 https://www.ssa.gov/oact/babynames/decades/names2010s.html
