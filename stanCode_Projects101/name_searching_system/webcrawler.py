@@ -19,19 +19,6 @@ def main():
         print('---------------------------')
         print(year)
 
-        # driver = webdriver.Chrome()
-
-        # driver.get('https://www.ssa.gov/oact/babynames/decades/names' + year + '.html')
-        # try:
-        #     element_present = EC.presence_of_element_located((By.ID, 'specific-element-id'))
-        #     WebDriverWait(driver, 5).until(element_present)
-        # except TimeoutException:
-        #     print("Timed out waiting for page to load")
-
-        # Get the entire HTML content of the page
-        # html = driver.page_source
-        # soup = BeautifulSoup(html)
-
         # ----- Write your code below this line ----- #
         with webdriver.Chrome() as driver:
             url = 'https://www.ssa.gov/oact/babynames/decades/names' + year + '.html'
