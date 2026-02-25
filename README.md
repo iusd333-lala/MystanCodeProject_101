@@ -19,5 +19,5 @@ Watch my *[Demo Videos!](https://www.youtube.com/watch?v=OeGsDJLiZXU)*
    
 4. [name_searching_system](https://github.com/iusd333-lala/MystanCodeProject_101/blob/main/stanCode_Projects101/name_searching_system/babygraphics.py)
    - an end-to-end data pipeline and visualization tool built in Python
-   - act as both a back-end data collector and a front-end graphical interface
+   - act as both a back-end data collector and a front-end graphical interface designer
    - The algorithm scrapes historical baby name data directly from the Social Security Administration (SSA) website and provides a graphical user interface (GUI) to search and visualize the popularity of specific names over the past century.
